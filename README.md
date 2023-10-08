@@ -6,3 +6,6 @@ https://medium.com/@saipragna.kancheti/harnessing-chatgpt-for-advanced-data-anal
 Link for GPT-Engineer demo video:
 
 https://youtu.be/MYNK-DSvYUA
+
+Link for copilot-chat demo:
+https://youtu.be/evH0WAWCFJY?feature=shared
